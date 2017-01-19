@@ -1,0 +1,48 @@
+
+.jumbotron a.btn{
+    color: black;
+}
+.jumbotron{
+    background-image: url(../images/china.jpg);
+   background-size: cover;
+    height: 600px;
+}
+.jumbotron h1.display-4, p{
+    color: #fffefe;
+}
+.jumbotron-one {
+    background-image: url(../images/salad.jpg);
+}
+
+.container .card-one{
+    border-style: solid;
+    border-width: 10px;
+    border-color: black;
+}
+.nav-item a{
+    color: white;
+}
+
+nav.navbar ul li.nav-item p.small , div.col-md-6 p.small{
+    font-size: 9.5px;
+}
+div.navbar-one{
+    background-color: darkgrey;
+}
+nav.navbar-two{
+    background-color: black;
+}
+
+div.col-md-3 h4 a{
+    text-decoration: none;
+    color: black;
+}
+img.card-img-top{
+    border-top-style: solid;
+    border-top-color: black;
+    border-top-width: 10px;
+}
+div.jumbotron h1.text-center a, p.lead a{
+    color: white;
+  
+} 
