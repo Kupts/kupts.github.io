@@ -1,12 +1,15 @@
-
-.jumbotron a.btn{
-    color: black;
+div.col-sm-8 h1, div.container h1.display-3{
+    font-family: 'Montserrat', sans-serif;
 }
 .jumbotron{
     background-image: url(../images/china.jpg);
    background-size: cover;
     height: 600px;
 }
+.navbar-toggleable-md a{
+  color: white;
+}
+
 .jumbotron h1.display-4, p{
     color: #fffefe;
 }
@@ -26,9 +29,7 @@
 nav.navbar ul li.nav-item p.small , div.col-md-6 p.small{
     font-size: 9.5px;
 }
-div.navbar-one{
-    background-color: darkgrey;
-}
+
 nav.navbar-two{
     background-color: black;
 }
@@ -44,5 +45,4 @@ img.card-img-top{
 }
 div.jumbotron h1.text-center a, p.lead a{
     color: white;
-  
 } 
